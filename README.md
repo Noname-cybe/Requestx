@@ -3,7 +3,7 @@
 
 ## Deskripsi :
 - Hanya untuk tujuan pendidikan, gunakan lah dengan **bijak** !
-- **Script ini hanya berjalan di Linux debian ( Kali Linux )**
+- **Script ini hanya berjalan di Linux debian ( Kali Linux ).**
 
 ---
 
