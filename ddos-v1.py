@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Auto-generated single-file scraper (embed marshal). Do not edit directly.
-
 import base64, marshal, sys
 
 # Embedded marshaled code (base64)
